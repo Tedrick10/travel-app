@@ -56,12 +56,12 @@ class MostPopularCardsCarouselWidget extends StatelessWidget {
             CardWidget(
               title: "Pamir Mountains, China",
               rating: "4.1",
-              imagePath: "",
+              imagePath: "assets/images/mountain.jpeg",
             ),
             CardWidget(
               title: "Kathmandu city, Nepal",
               rating: "3.8",
-              imagePath: "",
+              imagePath: "assets/images/kathmandu.jpeg",
             ),
           ],
         ),

@@ -59,7 +59,10 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/
+    - assets/fishing.jpg
+    - assets/kathmandu.jpg
+    - assets/mountain.jpg
+    - assets/profilepic.jpg
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
@@ -77,7 +80,16 @@ flutter:
   fonts:
     - family: Opensans
       fonts:
-        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/OpenSans-Bold.ttf
+        - asset: assets/OpenSans-BoldItalic.ttf
+        - asset: assets/OpenSans-ExtraBold.ttf
+        - asset: assets/OpenSans-ExtraBoldItalic.ttf
+        - asset: assets/OpenSans-Light.ttf
+        - asset: assets/OpenSans-LightItalic.ttf
+        - asset: assets/OpenSans-Regular.ttf
+        - asset: assets/OpenSans-RegularItalic.ttf
+        - asset: assets/OpenSans-SemiBold.ttf
+        - asset: assets/OpenSans-SemiBoldItalic.ttf
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
